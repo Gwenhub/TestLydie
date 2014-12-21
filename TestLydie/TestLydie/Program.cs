@@ -12,6 +12,8 @@ namespace TestLydie
         {
             //hello world
             //hello Lydie
+            Console.WriteLine("Qu'est ce qu'il faut pas faire pour un projet ...... --' "); //#GalèreIci 
+            Console.ReadLine();
         }
     }
 }

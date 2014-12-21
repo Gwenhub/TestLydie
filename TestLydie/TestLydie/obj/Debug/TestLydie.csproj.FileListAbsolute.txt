@@ -1,1 +1,2 @@
 C:\Users\Gwendal\Documents\GitHub\TestLydie\TestLydie\TestLydie\bin\Debug\TestLydie.exe.config
+C:\Users\LVH2\Documents\GitHub\TestLydie\TestLydie\TestLydie\bin\Debug\TestLydie.exe.config
